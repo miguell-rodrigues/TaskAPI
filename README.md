@@ -34,11 +34,7 @@ Clone o repositório
 ### Autor
 
 
-<<<<<<< HEAD
-[<img src="https://avatars1.githubusercontent.com/miguellrodrigues" width="115"><br><sub>@Miguel</sub>](https://github.com/miguellrodrigues)
+[<img src="https://avatars1.githubusercontent.com/miguell-rodrigues" width="115"><br><sub>@Miguel</sub>](https://github.com/miguell-rodrigues)
 
 
 ### Exemplo de resposta
-=======
-[<img src="https://avatars1.githubusercontent.com/miguell-rodrigues" width="115"><br><sub>@Miguel</sub>](https://github.com/miguell-rodrigues)
->>>>>>> 81743598a9712c434026e5efaf883341419a5f3c
