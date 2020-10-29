@@ -3,10 +3,6 @@
 Este projeto tem o intuito de gerenciar atividades acadêmicas
 de turmas escolares.
 
-## Começando
-
-Essas instruções fornecerão uma cópia do projeto em funcionamento em sua máquina local para fins de desenvolvimento e teste.
-
 ### Principais Tecnologias Utilizadas
 
 
@@ -25,6 +21,11 @@ Essas instruções fornecerão uma cópia do projeto em funcionamento em sua má
 ### Instalando
 
 Clone o repositório
+
+``` 
+  Execute yarn install para instalar
+  as dependências
+```
 
 <ul>
   <li>Execute os comandos: yarn build e yarn start </li>
