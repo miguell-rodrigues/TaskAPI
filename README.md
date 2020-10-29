@@ -31,4 +31,4 @@ Clone o repositório
 ### Autor
 
 
-[<img src="https://avatars1.githubusercontent.com/miguellrodrigues" width="115"><br><sub>@Miguel</sub>](https://github.com/miguellrodrigues)
+[<img src="https://avatars1.githubusercontent.com/miguell-rodrigues" width="115"><br><sub>@Miguel</sub>](https://github.com/miguell-rodrigues)
